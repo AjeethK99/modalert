@@ -1,6 +1,6 @@
    • Version v1.92.2
 
-   • No ADS + EXTRA FEATURES.\n
+   • No ADS + EXTRA FEATURES.
 
    • NO NEED LOGIN REQUIRED FOR DOWNLOAD VIDEO.
 
